@@ -18,11 +18,12 @@
 }
 
 .cards{
-  padding-left: 15vh;
+  padding-left: 20vh;
   margin-top: 5vh;
   padding-top: 15vh;
   background-color: #EA5153;
   height: 80vh;
+  margin-bottom: 60vh;
 }
 
 .education{
@@ -33,4 +34,35 @@
   text-align: center;
   overflow: hidden;
   height: 100vh;
+}
+
+.Projects {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image{
+  height: 40vh;
+  widows: 60vh;
+  margin-left: 5vh;
+  margin-right: 5vh;
+}
+
+.form{
+  margin-left: 5vh;
+  width: 60vh;
+  margin-bottom: 10vh;
+  float: left;
+}
+
+.img-circle {
+    border-radius: 50%;
+    height: 30vh;
+}
+
+.me{
+  width: 40vh;
+  float: left;
+  margin-left: 40vh;
 }
