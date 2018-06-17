@@ -5,8 +5,8 @@
 }
 
 .logo{
-  margin-right: 50vh;
-  margin-left: 20vh;
+  margin-right: 20%;
+  margin-left: 10%;
 }
 
 .card{
@@ -18,12 +18,13 @@
 }
 
 .cards{
-  padding-left: 20vh;
+  padding-left:8%;
   margin-top: 5vh;
   padding-top: 15vh;
   background-color: #EA5153;
   height: 80vh;
-  margin-bottom: 60vh;
+  padding-bottom: 60vh;
+  clear: both;
 }
 
 
@@ -41,17 +42,18 @@
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  clear: both;
+  padding-top: 10vh;
 }
 
 .image{
   height: 40vh;
-  widows: 60vh;
   margin-left: 5vh;
   margin-right: 5vh;
 }
 
 .form{
-  margin-left: 5vh;
+  margin-left: 5%;
   width: 60vh;
   margin-bottom: 10vh;
   float: left;
@@ -65,5 +67,28 @@
 .me{
   width: 40vh;
   float: left;
-  margin-left: 40vh;
+  margin-left: 15%;
+}
+
+.button-1{
+  margin-right: 0.5%;
+}
+
+.button-2{
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+}
+
+.button-3{
+  margin-left: 0.5%;
+  margin-right: 0.5%
+}
+
+.hi{
+  margin-left: 0.5%;
+}
+
+.buttons {
+  width: 50vh;
+  margin-left: 10%
 }
